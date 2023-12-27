@@ -1,0 +1,6 @@
+telebot
+tele-mod
+requests
+pytube
+urllib
+user_agent
