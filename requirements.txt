@@ -6,3 +6,5 @@ asyncio
 user_agent
 html.parser
 aiohttp
+bs4
+flask
